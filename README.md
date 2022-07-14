@@ -1,1 +1,2 @@
-# QuanLyTuyenSInh
+# Language: Java
+# Database: SQL Server
